@@ -46,6 +46,12 @@ Detailed documentation is available to guide you through the project's various s
 </div>
 
 ---
+## Training the Mode
+
+* The Training was done on hte NOTEBOOK [sentiment_analysisSA](predictive_modeling/sentiment_analysisSA.ipynb)
+
+* ON THE DATA SET:
+[imdb-dataset-of-65k-movie-reviews-and-translation](https://www.kaggle.com/datasets/crisbam/imdb-dataset-of-65k-movie-reviews-and-translation)
 
 ## Running the Application
 
