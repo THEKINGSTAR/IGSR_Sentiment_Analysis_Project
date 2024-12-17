@@ -49,7 +49,7 @@ Detailed documentation is available to guide you through the project's various s
 
 ## Running the Application
 
-For instructions on how to run the application, please refer to the [HOW TO RUN THE APP](HOW%20TO%20RUN%20THE%20APP.txt) guide.
+For instructions on how to run the application, please refer to the [HOW TO RUN THE APP](HOW_TO_RUN_THE_APP.txt) guide.
 
 ---
 
